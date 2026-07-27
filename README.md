@@ -43,8 +43,8 @@ justify-content:center;
 }
 
 .hero img{
-width:320px;
-height:400px;
+width:20px;
+height100px;
 object-fit:cover;
 border-radius:15px;
 box-shadow:0 5px 15px rgba(0,0,0,.2);
@@ -177,7 +177,7 @@ padding:15px;
 
 <p>
 📍 Sai Mandir Samor,<br>
-Main Road, Unchagaon,<br>
+Main Road, Unchgaon,<br>
 Kolhapur, Maharashtra
 </p>
 
