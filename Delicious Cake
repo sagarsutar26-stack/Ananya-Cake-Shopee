@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chocolate Cherry Cake</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Chocolate Cherry Cake</h1>
+
+        <img src="images/cake.jpg"
+             alt="Chocolate Cherry Layer Cake"
+             class="cake-image">
+
+        <p class="description">
+            Rich chocolate layer cake topped with cherries, chocolate ganache,
+            whipped cream, and berry filling.
+        </p>
+
+        <button onclick="alert('Thank you for visiting!')">
+            Order Now
+        </button>
+    </div>
+
+</body>
+</html>
