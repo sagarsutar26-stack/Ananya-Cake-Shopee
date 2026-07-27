@@ -43,8 +43,8 @@ justify-content:center;
 }
 
 .hero img{
-width:200px;
-height25000px;
+width:2000px;
+height2500px;
 object-fit:cover;
 border-radius:15px;
 box-shadow:0 5px 15px rgba(0,0,0,.2);
