@@ -119,7 +119,7 @@ padding:15px;
 <body>
 
 <header>
-<h1>🎂 Ananya Cake Shopee</h1>
+<h1> Ananya Cake Shopee</h1>
 <p>Freshly Baked Cakes for Every Celebration</p>
 </header>
 
